@@ -12,6 +12,7 @@
 ![Downloads](https://img.shields.io/github/downloads/arpsn123/Cytomorph-YOLOv8/total)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/arpsn123/Cytomorph-YOLOv8)
 ![Maintenance Status](https://img.shields.io/badge/Maintained-Yes-green)
+
 This project focuses on instance segmentation of microscopic cellular images using YOLOv8, a cutting-edge deep learning model known for its speed and accuracy in object detection and segmentation tasks. Leveraging YOLOv8, this project successfully segments cellular structures of various shapes and sizes, achieving remarkable precision across different cell types. This README provides an in-depth description of the dataset, YOLOv8 architecture, annotations, training process, evaluation metrics, and the tech stack involved.
 
 ---
