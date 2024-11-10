@@ -1,17 +1,35 @@
 # Microscopic Cellular Image Segmentation with YOLOv8
-![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Cytomorph-YOLOv8?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Cytomorph-YOLOv8?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Cytomorph-YOLOv8)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Cytomorph-YOLOv8)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Cytomorph-YOLOv8)
-![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Cytomorph-YOLOv8)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Cytomorph-YOLOv8)
-![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Cytomorph-YOLOv8)
-![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Cytomorph-YOLOv8)
-![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Cytomorph-YOLOv8?style=social)
-![Downloads](https://img.shields.io/github/downloads/arpsn123/Cytomorph-YOLOv8/total)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/arpsn123/Cytomorph-YOLOv8)
-![Maintenance Status](https://img.shields.io/badge/Maintained-Yes-green)
+<!-- Repository Overview Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/stars/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=ffca28" alt="GitHub Repo Stars">
+    <img src="https://img.shields.io/github/forks/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=00aaff" alt="GitHub Forks">
+    <img src="https://img.shields.io/github/watchers/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=00e676" alt="GitHub Watchers">
+</div>
+
+<!-- Issue & Pull Request Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/issues/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=ea4335" alt="GitHub Issues">
+    <img src="https://img.shields.io/github/issues-pr/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=ff9100" alt="GitHub Pull Requests">
+</div>
+
+<!-- Repository Activity & Stats Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/last-commit/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=673ab7" alt="GitHub Last Commit">
+    <img src="https://img.shields.io/github/contributors/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=388e3c" alt="GitHub Contributors">
+    <img src="https://img.shields.io/github/repo-size/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=303f9f" alt="GitHub Repo Size">
+</div>
+
+<!-- Language & Code Style Badges -->
+<div align="center">
+    <img src="https://img.shields.io/github/languages/count/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=607d8b" alt="GitHub Language Count">
+    <img src="https://img.shields.io/github/languages/top/arpsn123/Cytomorph-YOLOv8?style=for-the-badge&logo=github&logoColor=white&color=4caf50" alt="GitHub Top Language">
+</div>
+
+<!-- Maintenance Status Badge -->
+<div align="center">
+    <img src="https://img.shields.io/badge/Maintenance-%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Maintenance Status">
+</div>
+
 
 This project focuses on instance segmentation of microscopic cellular images using YOLOv8, a cutting-edge deep learning model known for its speed and accuracy in object detection and segmentation tasks. Leveraging YOLOv8, this project successfully segments cellular structures of various shapes and sizes, achieving remarkable precision across different cell types. This README provides an in-depth description of the dataset, YOLOv8 architecture, annotations, training process, evaluation metrics, and the tech stack involved.
 
